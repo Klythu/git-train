@@ -76,6 +76,6 @@ func TestLinearSVC(t *testing.T) {
 		//err = SVC.Save("tmp")
 
 		//var problem *Problem
-		//var param *Parameter222
+		//var param *Parameter
 	})
 }
