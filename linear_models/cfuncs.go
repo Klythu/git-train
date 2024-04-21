@@ -1,8 +1,9 @@
+//go:build go1.2
 // +build go1.2
 
 package linear_models
 
-/*
+/*222
 
 void libLinearPrintFunc(char *);
 
